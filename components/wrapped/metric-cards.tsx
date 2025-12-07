@@ -59,7 +59,7 @@ export function CountMetric({
           separator=","
           direction="up"
           duration={1}
-          className="count-up-text"
+          className="count-up-text tabular-nums"
         />
       </div>
       <h2 className="text-4xl sm:text-6xl font-extrabold uppercase mt-10 mb-2 group-hover:text-primary transition-colors">
